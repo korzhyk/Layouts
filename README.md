@@ -1,7 +1,8 @@
-# My default keyboard layouts
+# My default keyboard layouts set
 
-## Includes
+### Includes
 
-+ Ukrainian Unicode Layout
-+ English - Ilya Birman Typography
-+ Russian - Ilya Birman Typography
++ [Ukrainian Unicode Layout](http://r2u.org.ua/wiki/keyboard/UkrainianUnicode)
++ [English - Ilya Birman Typography](http://ilyabirman.ru/projects/typography-layout/)
++ [Russian - Ilya Birman Typography](http://ilyabirman.ru/projects/typography-layout/)
+
