@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.5.81 on 2017-01-12 at 12:30 (GMT+2)-->
+<!--Last edited by Ukelele version 3.2.1.161 on 2017-01-12 at 12:46 (GMT+2)-->
 <keyboard group="126" id="-7076" name="Ukrainian" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -216,7 +216,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
-			<key code="65" output="."/>
+			<key code="65" output=","/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
 			<key code="69" output="+"/>
@@ -328,7 +328,7 @@
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
 			<key code="64" output="&#x0010;"/>
-			<key code="65" output="."/>
+			<key code="65" output=","/>
 			<key code="66" output="*"/>
 			<key code="67" output="*"/>
 			<key code="69" output="+"/>
@@ -999,7 +999,7 @@
 			<key code="57" output=""/>
 			<key code="58" output=""/>
 			<key code="64" output="&#x0010;"/>
-			<key code="65" output="."/>
+			<key code="65" output=","/>
 			<key code="66" output="&#x001D;"/>
 			<key code="67" output="*"/>
 			<key code="69" output="+"/>
