@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.1.161 on 2017-01-12 at 12:46 (GMT+2)-->
-<keyboard group="126" id="-7076" name="Ukrainian" maxout="3">
+<!--Last edited by Ukelele version 3.2.7.195 on 2018-09-13 at 17:13 (GMT+3)-->
+<keyboard group="126" id="-6455" name="Ukrainian" maxout="3">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -398,7 +398,7 @@
 			<key code="10" output="´"/>
 			<key code="11" output="ß"/>
 			<key code="12" output=""/>
-			<key code="13" output=""/>
+			<key code="13" output="✓"/>
 			<key code="14" output="€"/>
 			<key code="15" output="®"/>
 			<key code="16" output=""/>
@@ -435,7 +435,7 @@
 			<key code="47" output="»"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="´"/>
+			<key code="50" output="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
@@ -736,6 +736,7 @@
 			<key code="13" output="∑"/>
 			<key code="14" output="´"/>
 			<key code="15" output="®"/>
+			<key code="16" output=""/>
 			<key code="17" output="†"/>
 			<key code="18" output="¡"/>
 			<key code="19" output="™"/>
@@ -847,6 +848,7 @@
 			<key code="13" output="&#x0017;"/>
 			<key code="14" output="&#x0005;"/>
 			<key code="15" output="&#x0012;"/>
+			<key code="16" output=""/>
 			<key code="17" output="&#x0014;"/>
 			<key code="18" output="1"/>
 			<key code="19" output="2"/>
