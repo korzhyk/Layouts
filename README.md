@@ -1,5 +1,7 @@
 # My default keyboard layouts set
 
+![Keyboard layouts menu](https://i.imgur.com/BXgnQmW.png)
+
 ### Includes
 
 + Ukrainian Typography
@@ -21,15 +23,3 @@ Or for all users
 	2. Go to `Keyboard`
 	3. Select `Input Sources` and press (+)
 	4. Add installed keyboard layouts
-	
-
-### LifeHack
-
-If you want to delete default U.S. keyboard layout, you can do this follow next steps:
-
-	1. Open `System Preferences.app`
-	2. Go to `Keyboard`
-	3. Select `Input Sources` and press (+)
-	4. Add `Japanese` keyboard layout
-	5. After this you can remove `U.S.` and `Japanese` layouts in order!
-
