@@ -1,6 +1,6 @@
 # My default keyboard layouts set
 
-![Keyboard layouts menu](https://i.imgur.com/BXgnQmW.png)
+![Keyboard layouts menu](https://i.imgur.com/dLAZejJ.png)
 
 ### Includes
 
@@ -23,3 +23,7 @@ Or for all users
 	2. Go to `Keyboard`
 	3. Select `Input Sources` and press (+)
 	4. Add installed keyboard layouts
+
+# Icons
+
+Free svg icons from [flag-icons](https://flagicons.lipis.dev/) has been rounded and toned at edges.
