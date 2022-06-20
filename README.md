@@ -1,6 +1,6 @@
 # My default keyboard layouts set
 
-![Keyboard layouts menu](https://i.imgur.com/rc0mxMi.png)
+![Keyboard layouts menu](https://i.imgur.com/TZLevES.png)
 
 ### Includes
 
