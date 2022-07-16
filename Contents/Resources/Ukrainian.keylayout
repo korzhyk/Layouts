@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 346 on 2021-11-20 at 23:33 (EET)-->
-<keyboard group="7" id="19895" name="Ukrainian" maxout="3">
+<!--Last edited by Ukelele version 355 on 2022-07-16 at 09:51 (EEST)-->
+<keyboard group="126" id="-19675" name="Ukrainian" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="994" modifiers="f4"/>
@@ -103,6 +103,9 @@
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
+            <key code="56" output=""/>
+            <key code="58" output=""/>
+            <key code="59" output=""/>
             <key code="64" output="&#x0010;"/>
             <key code="65" output=","/>
             <key code="66" output="&#x001D;"/>
@@ -389,7 +392,7 @@
             <key code="1" output="§"/>
             <key code="2" output="°"/>
             <key code="3" output="£"/>
-            <key code="4" output=""/>
+            <key code="4" output="ₚ"/>
             <key code="5" output=""/>
             <key code="6" output=""/>
             <key code="7" output="×"/>
