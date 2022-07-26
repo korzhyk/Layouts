@@ -11,18 +11,8 @@
 	
 For current user
 
-	cd ~/Library/Keyboard\ Layouts/
-	git clone https://github.com/korzhyk/Layouts.git Layouts.bundle
-
-Or for all users
-
-	cd /Library/Keyboard\ Layouts/
-	sudo git clone https://github.com/korzhyk/Layouts.git Layouts.bundle
-
-	1. Open `System Preferences.app`
-	2. Go to `Keyboard`
-	3. Select `Input Sources` and press (+)
-	4. Add installed keyboard layouts
+	mkdir -p ~/Library/Keyboard\ Layouts/Korzhyk-Layouts.bundle
+	curl -sL https://github.com/korzhyk/Layouts/releases/download/v1.1.1/Korzhyk-Layouts.bundle.zip | tar xv - -C ~/Library/Keyboard\ Layouts/Korzhyk-Layouts.bundle
 
 # Icons
 
